@@ -2,7 +2,7 @@
 stuff for bootcamp for undergraduates at yale astronomy (BOUYA)
 
 ##Description
-=============
+-------------
 
 This repository contains materials for my presentation on python for the Yale Astronomy Undergraduates Summer 2015.
 It contains ... 
@@ -12,7 +12,7 @@ It contains ...
 * bootcamp.ipynb: an ipython notebook that shows a typcial work flow, using the 1510-089 data. 
 
 ##Dependencies 
-==============
+--------------
 
 For the code to work, you will need [Astropy](http://www.astropy.org/), [Numpy](http://www.numpy.org/), [matplotlib](http://matplotlib.org/), and [IPython](http://ipython.org/)
 
